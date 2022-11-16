@@ -1,0 +1,282 @@
+[
+  {
+    "label": "CITED2",
+    "y": 0.7135,
+    "color": "positive",
+    "x": 1,
+    "id": "CITED2"
+  },
+  {
+    "label": "RHOB",
+    "y": 0.6898,
+    "color": "positive",
+    "x": 2,
+    "id": "RHOB"
+  },
+  {
+    "label": "DUSP1",
+    "y": 0.6896,
+    "color": "positive",
+    "x": 3,
+    "id": "DUSP1"
+  },
+  {
+    "label": "IL7",
+    "y": 0.689,
+    "color": "positive",
+    "x": 4,
+    "id": "IL7"
+  },
+  {
+    "label": "CEBPD",
+    "y": 0.6516,
+    "color": "positive",
+    "x": 5,
+    "id": "CEBPD"
+  },
+  {
+    "label": "C3",
+    "y": 0.6505,
+    "color": "positive",
+    "x": 6,
+    "id": "C3"
+  },
+  {
+    "label": "TGFBR2",
+    "y": 0.6486,
+    "color": "positive",
+    "x": 7,
+    "id": "TGFBR2"
+  },
+  {
+    "label": "ENG",
+    "y": 0.6437,
+    "color": "positive",
+    "x": 8,
+    "id": "ENG"
+  },
+  {
+    "label": "MUC1",
+    "y": 0.6388,
+    "color": "positive",
+    "x": 9,
+    "id": "MUC1"
+  },
+  {
+    "label": "PECAM1",
+    "y": 0.6288,
+    "color": "positive",
+    "x": 10,
+    "id": "PECAM1"
+  },
+  {
+    "label": "TXNIP",
+    "y": 0.6267,
+    "color": "positive",
+    "x": 11,
+    "id": "TXNIP"
+  },
+  {
+    "label": "CTSH",
+    "y": 0.616,
+    "color": "positive",
+    "x": 12,
+    "id": "CTSH"
+  },
+  {
+    "label": "MCL1",
+    "y": 0.6137,
+    "color": "positive",
+    "x": 13,
+    "id": "MCL1"
+  },
+  {
+    "label": "CEBPB",
+    "y": 0.612,
+    "color": "positive",
+    "x": 14,
+    "id": "CEBPB"
+  },
+  {
+    "label": "AQP1",
+    "y": 0.6055,
+    "color": "positive",
+    "x": 15,
+    "id": "AQP1"
+  },
+  {
+    "label": "COL4A2",
+    "y": 0.5998,
+    "color": "positive",
+    "x": 16,
+    "id": "COL4A2"
+  },
+  {
+    "label": "CTSD",
+    "y": 0.5992,
+    "color": "positive",
+    "x": 17,
+    "id": "CTSD"
+  },
+  {
+    "label": "FOS",
+    "y": 0.5954,
+    "color": "positive",
+    "x": 18,
+    "id": "FOS"
+  },
+  {
+    "label": "CD74",
+    "y": 0.589,
+    "color": "positive",
+    "x": 19,
+    "id": "CD74"
+  },
+  {
+    "label": "GRN",
+    "y": 0.5754,
+    "color": "positive",
+    "x": 20,
+    "id": "GRN"
+  },
+  {
+    "label": "ORC6",
+    "y": -0.6832,
+    "color": "negative",
+    "x": 1,
+    "id": "ORC6"
+  },
+  {
+    "label": "DEPDC1",
+    "y": -0.6764,
+    "color": "negative",
+    "x": 2,
+    "id": "DEPDC1"
+  },
+  {
+    "label": "BIRC5",
+    "y": -0.6456,
+    "color": "negative",
+    "x": 3,
+    "id": "BIRC5"
+  },
+  {
+    "label": "ATAD2",
+    "y": -0.6421,
+    "color": "negative",
+    "x": 4,
+    "id": "ATAD2"
+  },
+  {
+    "label": "XRCC3",
+    "y": -0.6357,
+    "color": "negative",
+    "x": 5,
+    "id": "XRCC3"
+  },
+  {
+    "label": "PMAIP1",
+    "y": -0.6323,
+    "color": "negative",
+    "x": 6,
+    "id": "PMAIP1"
+  },
+  {
+    "label": "MRPL13",
+    "y": -0.6207,
+    "color": "negative",
+    "x": 7,
+    "id": "MRPL13"
+  },
+  {
+    "label": "SPC25",
+    "y": -0.619,
+    "color": "negative",
+    "x": 8,
+    "id": "SPC25"
+  },
+  {
+    "label": "CCNF",
+    "y": -0.6188,
+    "color": "negative",
+    "x": 9,
+    "id": "CCNF"
+  },
+  {
+    "label": "CEP55",
+    "y": -0.6171,
+    "color": "negative",
+    "x": 10,
+    "id": "CEP55"
+  },
+  {
+    "label": "NEK2",
+    "y": -0.6168,
+    "color": "negative",
+    "x": 11,
+    "id": "NEK2"
+  },
+  {
+    "label": "BRCA1",
+    "y": -0.6167,
+    "color": "negative",
+    "x": 12,
+    "id": "BRCA1"
+  },
+  {
+    "label": "RAD51",
+    "y": -0.6166,
+    "color": "negative",
+    "x": 13,
+    "id": "RAD51"
+  },
+  {
+    "label": "UBE2C",
+    "y": -0.6144,
+    "color": "negative",
+    "x": 14,
+    "id": "UBE2C"
+  },
+  {
+    "label": "BAG4",
+    "y": -0.608,
+    "color": "negative",
+    "x": 15,
+    "id": "BAG4"
+  },
+  {
+    "label": "RACGAP1",
+    "y": -0.607,
+    "color": "negative",
+    "x": 16,
+    "id": "RACGAP1"
+  },
+  {
+    "label": "KIF14",
+    "y": -0.6061,
+    "color": "negative",
+    "x": 17,
+    "id": "KIF14"
+  },
+  {
+    "label": "PTTG1",
+    "y": -0.6053,
+    "color": "negative",
+    "x": 18,
+    "id": "PTTG1"
+  },
+  {
+    "label": "TRIP13",
+    "y": -0.605,
+    "color": "negative",
+    "x": 19,
+    "id": "TRIP13"
+  },
+  {
+    "label": "VSNL1",
+    "y": -0.6032,
+    "color": "negative",
+    "x": 20,
+    "id": "VSNL1"
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "label": "NTN3",
+    "y": 0.799,
+    "color": "positive",
+    "x": 1,
+    "id": "NTN3"
+  },
+  {
+    "label": "SLC26A2",
+    "y": 0.7948,
+    "color": "positive",
+    "x": 2,
+    "id": "SLC26A2"
+  },
+  {
+    "label": "FGF3",
+    "y": 0.7846,
+    "color": "positive",
+    "x": 3,
+    "id": "FGF3"
+  },
+  {
+    "label": "CECR6",
+    "y": 0.7836,
+    "color": "positive",
+    "x": 4,
+    "id": "CECR6"
+  },
+  {
+    "label": "ADORA2A",
+    "y": 0.782,
+    "color": "positive",
+    "x": 5,
+    "id": "ADORA2A"
+  },
+  {
+    "label": "HSPA12A",
+    "y": 0.7768,
+    "color": "positive",
+    "x": 6,
+    "id": "HSPA12A"
+  },
+  {
+    "label": "EXOSC8",
+    "y": 0.775,
+    "color": "positive",
+    "x": 7,
+    "id": "EXOSC8"
+  },
+  {
+    "label": "DDB2",
+    "y": 0.7737,
+    "color": "positive",
+    "x": 8,
+    "id": "DDB2"
+  },
+  {
+    "label": "WNT6",
+    "y": 0.7703,
+    "color": "positive",
+    "x": 9,
+    "id": "WNT6"
+  },
+  {
+    "label": "AMH",
+    "y": 0.7694,
+    "color": "positive",
+    "x": 10,
+    "id": "AMH"
+  },
+  {
+    "label": "BIRC7",
+    "y": 0.7669,
+    "color": "positive",
+    "x": 11,
+    "id": "BIRC7"
+  },
+  {
+    "label": "PMS1",
+    "y": 0.7667,
+    "color": "positive",
+    "x": 12,
+    "id": "PMS1"
+  },
+  {
+    "label": "CTSA",
+    "y": 0.766,
+    "color": "positive",
+    "x": 13,
+    "id": "CTSA"
+  },
+  {
+    "label": "MKNK1",
+    "y": 0.7636,
+    "color": "positive",
+    "x": 14,
+    "id": "MKNK1"
+  },
+  {
+    "label": "COL11A2",
+    "y": 0.7621,
+    "color": "positive",
+    "x": 15,
+    "id": "COL11A2"
+  },
+  {
+    "label": "CMTM2",
+    "y": 0.7598,
+    "color": "positive",
+    "x": 16,
+    "id": "CMTM2"
+  },
+  {
+    "label": "TNKS",
+    "y": 0.7597,
+    "color": "positive",
+    "x": 17,
+    "id": "TNKS"
+  },
+  {
+    "label": "UTF1",
+    "y": 0.7597,
+    "color": "positive",
+    "x": 18,
+    "id": "UTF1"
+  },
+  {
+    "label": "ADRA1D",
+    "y": 0.7583,
+    "color": "positive",
+    "x": 19,
+    "id": "ADRA1D"
+  },
+  {
+    "label": "FRZB",
+    "y": 0.7579,
+    "color": "positive",
+    "x": 20,
+    "id": "FRZB"
+  },
+  {
+    "label": "HSPA8",
+    "y": -0.5725,
+    "color": "negative",
+    "x": 1,
+    "id": "HSPA8"
+  },
+  {
+    "label": "PPP2CA",
+    "y": -0.5169,
+    "color": "negative",
+    "x": 2,
+    "id": "PPP2CA"
+  },
+  {
+    "label": "EIF4A1",
+    "y": -0.4869,
+    "color": "negative",
+    "x": 3,
+    "id": "EIF4A1"
+  },
+  {
+    "label": "CALR",
+    "y": -0.4688,
+    "color": "negative",
+    "x": 4,
+    "id": "CALR"
+  },
+  {
+    "label": "VAPA",
+    "y": -0.4645,
+    "color": "negative",
+    "x": 5,
+    "id": "VAPA"
+  },
+  {
+    "label": "DNAJB1",
+    "y": -0.4574,
+    "color": "negative",
+    "x": 6,
+    "id": "DNAJB1"
+  },
+  {
+    "label": "ANXA2",
+    "y": -0.4344,
+    "color": "negative",
+    "x": 7,
+    "id": "ANXA2"
+  },
+  {
+    "label": "CSNK1A1",
+    "y": -0.4311,
+    "color": "negative",
+    "x": 8,
+    "id": "CSNK1A1"
+  },
+  {
+    "label": "CDKN1A",
+    "y": -0.4214,
+    "color": "negative",
+    "x": 9,
+    "id": "CDKN1A"
+  },
+  {
+    "label": "HSP90B1",
+    "y": -0.4098,
+    "color": "negative",
+    "x": 10,
+    "id": "HSP90B1"
+  },
+  {
+    "label": "EIF4G1",
+    "y": -0.4057,
+    "color": "negative",
+    "x": 11,
+    "id": "EIF4G1"
+  },
+  {
+    "label": "FTH1",
+    "y": -0.4051,
+    "color": "negative",
+    "x": 12,
+    "id": "FTH1"
+  },
+  {
+    "label": "SLC38A2",
+    "y": -0.4042,
+    "color": "negative",
+    "x": 13,
+    "id": "SLC38A2"
+  },
+  {
+    "label": "LTBR",
+    "y": -0.3988,
+    "color": "negative",
+    "x": 14,
+    "id": "LTBR"
+  },
+  {
+    "label": "COX7B",
+    "y": -0.3977,
+    "color": "negative",
+    "x": 15,
+    "id": "COX7B"
+  },
+  {
+    "label": "CAPNS1",
+    "y": -0.3975,
+    "color": "negative",
+    "x": 16,
+    "id": "CAPNS1"
+  },
+  {
+    "label": "OAZ1",
+    "y": -0.3963,
+    "color": "negative",
+    "x": 17,
+    "id": "OAZ1"
+  },
+  {
+    "label": "CEBPD",
+    "y": -0.3941,
+    "color": "negative",
+    "x": 18,
+    "id": "CEBPD"
+  },
+  {
+    "label": "HIF1A",
+    "y": -0.3932,
+    "color": "negative",
+    "x": 19,
+    "id": "HIF1A"
+  },
+  {
+    "label": "MDM2",
+    "y": -0.3931,
+    "color": "negative",
+    "x": 20,
+    "id": "MDM2"
+  }
+]

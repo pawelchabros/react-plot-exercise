@@ -1,0 +1,1366 @@
+{
+  "meta": {
+    "pValue": "p = 0.92",
+    "group": "Histology"
+  },
+  "data": [
+    {
+      "group": 101436,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.8859,
+      "id": "101436-Adenosquamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101436,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.0329,
+      "id": "101436-Adenosquamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101437,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 9.5916,
+      "id": "101437-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101437,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.4232,
+      "id": "101437-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101438,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 9.2504,
+      "id": "101438-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101438,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.7413,
+      "id": "101438-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101439,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "Pre",
+      "y": 9.2505,
+      "id": "101439-Clear Cell adenocarcinoma-Pre"
+    },
+    {
+      "group": 101439,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "6 weeks",
+      "y": 9.0233,
+      "id": "101439-Clear Cell adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101440,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 9.9445,
+      "id": "101440-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101440,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.7402,
+      "id": "101440-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101441,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.1271,
+      "id": "101441-Adenosquamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101441,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.1961,
+      "id": "101441-Adenosquamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101442,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "Pre",
+      "y": 9.241,
+      "id": "101442-Clear Cell adenocarcinoma-Pre"
+    },
+    {
+      "group": 101442,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "6 weeks",
+      "y": 9.3161,
+      "id": "101442-Clear Cell adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101443,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 8.8864,
+      "id": "101443-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101443,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 9.2763,
+      "id": "101443-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101444,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 7.8625,
+      "id": "101444-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101444,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.1322,
+      "id": "101444-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101445,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 9.6376,
+      "id": "101445-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101445,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 9.8262,
+      "id": "101445-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101446,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.9756,
+      "id": "101446-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101446,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.3503,
+      "id": "101446-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101447,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 8.8096,
+      "id": "101447-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101447,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 9.3577,
+      "id": "101447-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101448,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 9.2537,
+      "id": "101448-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101448,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 6.8103,
+      "id": "101448-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101449,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "Pre",
+      "y": 7.8667,
+      "id": "101449-Clear Cell adenocarcinoma-Pre"
+    },
+    {
+      "group": 101449,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.1604,
+      "id": "101449-Clear Cell adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101450,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.9148,
+      "id": "101450-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101450,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.4606,
+      "id": "101450-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101451,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "Pre",
+      "y": 8.9191,
+      "id": "101451-Clear Cell adenocarcinoma-Pre"
+    },
+    {
+      "group": 101451,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.1154,
+      "id": "101451-Clear Cell adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101452,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 9.1981,
+      "id": "101452-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101452,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 9.5918,
+      "id": "101452-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101453,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.6805,
+      "id": "101453-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101453,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.9274,
+      "id": "101453-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101454,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.441,
+      "id": "101454-Adenosquamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101454,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.6171,
+      "id": "101454-Adenosquamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101455,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.8684,
+      "id": "101455-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101455,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.3595,
+      "id": "101455-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101456,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "Pre",
+      "y": 7.9093,
+      "id": "101456-Clear Cell adenocarcinoma-Pre"
+    },
+    {
+      "group": 101456,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "6 weeks",
+      "y": 7.5162,
+      "id": "101456-Clear Cell adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101457,
+      "color": "Bronchioalveolar carcinoma",
+      "x": "Pre",
+      "y": 9.6521,
+      "id": "101457-Bronchioalveolar carcinoma-Pre"
+    },
+    {
+      "group": 101457,
+      "color": "Bronchioalveolar carcinoma",
+      "x": "6 weeks",
+      "y": 9.8387,
+      "id": "101457-Bronchioalveolar carcinoma-6 weeks"
+    },
+    {
+      "group": 101458,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 8.9481,
+      "id": "101458-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101458,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.9674,
+      "id": "101458-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101459,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 6.6788,
+      "id": "101459-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101459,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 6.721,
+      "id": "101459-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101460,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 6.6488,
+      "id": "101460-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101460,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 6.7543,
+      "id": "101460-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101461,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.0764,
+      "id": "101461-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101461,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.0912,
+      "id": "101461-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101462,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.9706,
+      "id": "101462-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101462,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 9.4384,
+      "id": "101462-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101463,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "Pre",
+      "y": 8.3224,
+      "id": "101463-Clear Cell adenocarcinoma-Pre"
+    },
+    {
+      "group": 101463,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.1944,
+      "id": "101463-Clear Cell adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101464,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 8.3021,
+      "id": "101464-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101464,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.283,
+      "id": "101464-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101465,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.0567,
+      "id": "101465-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101465,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.7306,
+      "id": "101465-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101466,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.42,
+      "id": "101466-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101466,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.2696,
+      "id": "101466-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101467,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.1256,
+      "id": "101467-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101467,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 9.1651,
+      "id": "101467-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101468,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "Pre",
+      "y": 9.2678,
+      "id": "101468-Clear Cell adenocarcinoma-Pre"
+    },
+    {
+      "group": 101468,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "6 weeks",
+      "y": 9.6647,
+      "id": "101468-Clear Cell adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101469,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.8688,
+      "id": "101469-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101469,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.4186,
+      "id": "101469-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101470,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 9.318,
+      "id": "101470-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101470,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 10.0703,
+      "id": "101470-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101471,
+      "color": "Adenocarcinoma and BAR",
+      "x": "Pre",
+      "y": 9.5983,
+      "id": "101471-Adenocarcinoma and BAR-Pre"
+    },
+    {
+      "group": 101471,
+      "color": "Adenocarcinoma and BAR",
+      "x": "6 weeks",
+      "y": 8.0348,
+      "id": "101471-Adenocarcinoma and BAR-6 weeks"
+    },
+    {
+      "group": 101472,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.722,
+      "id": "101472-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101472,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 9.0273,
+      "id": "101472-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101473,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "Pre",
+      "y": 8.6088,
+      "id": "101473-Clear Cell adenocarcinoma-Pre"
+    },
+    {
+      "group": 101473,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.331,
+      "id": "101473-Clear Cell adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101474,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.4552,
+      "id": "101474-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101474,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.5279,
+      "id": "101474-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101475,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 10.2979,
+      "id": "101475-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101475,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 10.7575,
+      "id": "101475-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101476,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 6.1982,
+      "id": "101476-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101476,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 6.7421,
+      "id": "101476-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101477,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "Pre",
+      "y": 9.4942,
+      "id": "101477-Adenosquamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101477,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.4781,
+      "id": "101477-Adenosquamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101478,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 9.057,
+      "id": "101478-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101478,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 9.6752,
+      "id": "101478-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101479,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.9884,
+      "id": "101479-Adenosquamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101479,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 10.3897,
+      "id": "101479-Adenosquamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101480,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 10.2404,
+      "id": "101480-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101480,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 10.3179,
+      "id": "101480-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101481,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 7.6153,
+      "id": "101481-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101481,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.2067,
+      "id": "101481-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101482,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.3978,
+      "id": "101482-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101482,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.0732,
+      "id": "101482-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101483,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.7921,
+      "id": "101483-Adenosquamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101483,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.7236,
+      "id": "101483-Adenosquamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101484,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.2926,
+      "id": "101484-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101484,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 6.7338,
+      "id": "101484-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101485,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.4697,
+      "id": "101485-Adenosquamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101485,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.701,
+      "id": "101485-Adenosquamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101486,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "Pre",
+      "y": 9.066,
+      "id": "101486-Clear Cell adenocarcinoma-Pre"
+    },
+    {
+      "group": 101486,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.5087,
+      "id": "101486-Clear Cell adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101487,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "Pre",
+      "y": 9.1039,
+      "id": "101487-Adenosquamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101487,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.5063,
+      "id": "101487-Adenosquamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101488,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.1513,
+      "id": "101488-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101488,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 3.6555,
+      "id": "101488-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101489,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 8.1484,
+      "id": "101489-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101489,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.6112,
+      "id": "101489-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101490,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.1059,
+      "id": "101490-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101490,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.7453,
+      "id": "101490-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101491,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 8.8616,
+      "id": "101491-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101491,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.6595,
+      "id": "101491-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101492,
+      "color": "Mucinous adenocarcinoma",
+      "x": "Pre",
+      "y": 8.8305,
+      "id": "101492-Mucinous adenocarcinoma-Pre"
+    },
+    {
+      "group": 101492,
+      "color": "Mucinous adenocarcinoma",
+      "x": "6 weeks",
+      "y": 9.3761,
+      "id": "101492-Mucinous adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101493,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 8.6067,
+      "id": "101493-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101493,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 9.1353,
+      "id": "101493-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101494,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.4734,
+      "id": "101494-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101494,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.6755,
+      "id": "101494-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101495,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 8.9734,
+      "id": "101495-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101495,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.9962,
+      "id": "101495-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101496,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 8.2975,
+      "id": "101496-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101496,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.5611,
+      "id": "101496-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101497,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.9542,
+      "id": "101497-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101497,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.8541,
+      "id": "101497-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101498,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 7.2652,
+      "id": "101498-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101498,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 7.2707,
+      "id": "101498-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101499,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "Pre",
+      "y": 9.1374,
+      "id": "101499-Clear Cell adenocarcinoma-Pre"
+    },
+    {
+      "group": 101499,
+      "color": "Clear Cell adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.042,
+      "id": "101499-Clear Cell adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101501,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 6.9248,
+      "id": "101501-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101501,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.4151,
+      "id": "101501-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101502,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 9.6963,
+      "id": "101502-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101502,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 9.9923,
+      "id": "101502-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101503,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 9.1374,
+      "id": "101503-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101503,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.7771,
+      "id": "101503-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101504,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.5365,
+      "id": "101504-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101504,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.6389,
+      "id": "101504-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101505,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.9158,
+      "id": "101505-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101505,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.8214,
+      "id": "101505-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101506,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "Pre",
+      "y": 6.6767,
+      "id": "101506-Adenosquamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101506,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.5282,
+      "id": "101506-Adenosquamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101507,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 9.4298,
+      "id": "101507-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101507,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.9489,
+      "id": "101507-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101508,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 9.4647,
+      "id": "101508-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101508,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 9.9266,
+      "id": "101508-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101510,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.958,
+      "id": "101510-Adenosquamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101510,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.0892,
+      "id": "101510-Adenosquamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101511,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.9721,
+      "id": "101511-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101511,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.1333,
+      "id": "101511-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101512,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 8.2887,
+      "id": "101512-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101512,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.7005,
+      "id": "101512-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101513,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "Pre",
+      "y": 9.2542,
+      "id": "101513-Adenosquamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101513,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 9.1753,
+      "id": "101513-Adenosquamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101514,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.2852,
+      "id": "101514-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101514,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.3102,
+      "id": "101514-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101515,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 9.2692,
+      "id": "101515-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101515,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 5.7768,
+      "id": "101515-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101516,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 9.3337,
+      "id": "101516-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101516,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.7066,
+      "id": "101516-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101517,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 8.7922,
+      "id": "101517-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101517,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.7205,
+      "id": "101517-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101518,
+      "color": "Bronchioloalveolar carcinoma",
+      "x": "Pre",
+      "y": 9.7703,
+      "id": "101518-Bronchioloalveolar carcinoma-Pre"
+    },
+    {
+      "group": 101518,
+      "color": "Bronchioloalveolar carcinoma",
+      "x": "6 weeks",
+      "y": 10.0817,
+      "id": "101518-Bronchioloalveolar carcinoma-6 weeks"
+    },
+    {
+      "group": 101519,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 7.6787,
+      "id": "101519-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101519,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.1728,
+      "id": "101519-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101520,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.6967,
+      "id": "101520-Adenosquamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101520,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.9354,
+      "id": "101520-Adenosquamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101521,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 7.8364,
+      "id": "101521-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101521,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 7.7455,
+      "id": "101521-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101522,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 9.8499,
+      "id": "101522-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101522,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 9.302,
+      "id": "101522-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101523,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.038,
+      "id": "101523-Adenosquamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101523,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.417,
+      "id": "101523-Adenosquamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101524,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 9.0087,
+      "id": "101524-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101524,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.9042,
+      "id": "101524-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101525,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "Pre",
+      "y": 9.5897,
+      "id": "101525-Adenosquamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101525,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 9.7857,
+      "id": "101525-Adenosquamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101526,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.0697,
+      "id": "101526-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101526,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.3189,
+      "id": "101526-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101527,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.5137,
+      "id": "101527-Adenosquamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101527,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 9.3596,
+      "id": "101527-Adenosquamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101528,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.0474,
+      "id": "101528-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101528,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 9.5499,
+      "id": "101528-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101532,
+      "color": "Adenocarcinoma",
+      "x": "Pre",
+      "y": 8.8744,
+      "id": "101532-Adenocarcinoma-Pre"
+    },
+    {
+      "group": 101532,
+      "color": "Adenocarcinoma",
+      "x": "6 weeks",
+      "y": 8.8462,
+      "id": "101532-Adenocarcinoma-6 weeks"
+    },
+    {
+      "group": 101533,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.1388,
+      "id": "101533-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101533,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.6594,
+      "id": "101533-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101534,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 7.3992,
+      "id": "101534-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101534,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.8051,
+      "id": "101534-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101535,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.5893,
+      "id": "101535-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101535,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 8.0198,
+      "id": "101535-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101537,
+      "color": "Squamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.4647,
+      "id": "101537-Squamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101537,
+      "color": "Squamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 7.1702,
+      "id": "101537-Squamous cell carcinoma-6 weeks"
+    },
+    {
+      "group": 101538,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "Pre",
+      "y": 8.6163,
+      "id": "101538-Adenosquamous cell carcinoma-Pre"
+    },
+    {
+      "group": 101538,
+      "color": "Adenosquamous cell carcinoma",
+      "x": "6 weeks",
+      "y": 9.3374,
+      "id": "101538-Adenosquamous cell carcinoma-6 weeks"
+    }
+  ]
+}

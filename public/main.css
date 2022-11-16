@@ -1,0 +1,416 @@
+.max-width-100 {
+  max-width: 100px;
+  margin: auto;
+}
+
+.max-width-200 {
+  max-width: 200px;
+  margin: auto;
+}
+
+.max-width-300 {
+  max-width: 300px;
+  margin: auto;
+}
+
+.max-width-400 {
+  max-width: 400px;
+  margin: auto;
+}
+
+.max-width-500 {
+  max-width: 500px;
+  margin: auto;
+}
+
+.max-width-600 {
+  max-width: 600px;
+  margin: auto;
+}
+
+.max-width-700 {
+  max-width: 700px;
+  margin: auto;
+}
+
+.max-width-800 {
+  max-width: 800px;
+  margin: auto;
+}
+
+.max-width-900 {
+  max-width: 900px;
+  margin: auto;
+}
+
+.max-width-1000 {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.dashboard {
+  all: unset;
+  display: grid;
+  grid-template-columns: 300px calc(100vw - 300px - 15px * 2);
+  margin: 15px;
+}
+.dashboard .sidebar {
+  margin: 15px;
+}
+.dashboard .content {
+  margin: 15px;
+}
+
+.content {
+  max-width: unset !important;
+}
+
+.tab-content {
+  width: 100%;
+}
+
+.filters {
+  background-color: var(--bs-secondary);
+  border-radius: 4px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 30px;
+}
+.filters > * {
+  margin: 0 20px;
+}
+
+.icon-button {
+  all: unset;
+  margin: 0 3px;
+  scale: 0.8;
+}
+.icon-button[disabled] {
+  opacity: 0.3;
+}
+
+button.active {
+  background-color: #006a64 !important;
+}
+
+.dropdown > button {
+  border: 1px solid #32b0a9;
+}
+
+.material-switch > .label-default.bg-default {
+  background-color: #32b0a9 !important;
+}
+
+.list-inside {
+  list-style-position: inside;
+}
+
+#shiny-notification-panel {
+  padding: 6px;
+  min-width: 250px;
+  width: unset;
+  max-width: 400px;
+}
+#shiny-notification-panel .shiny-notification-message {
+  background-color: #7ad1eb;
+  color: #000000;
+}
+
+.react-container {
+  height: 100%;
+  width: 100%;
+}
+
+.legend {
+  font-size: 10px;
+}
+.legend-title {
+  line-height: 1.25;
+  margin: 0 10px 0 0;
+}
+.legend-title-vertical {
+  margin: 0 0 10px 0;
+}
+.legend .right {
+  text-align: end;
+}
+.legend .bold {
+  font-size: 12px;
+  font-weight: 700;
+}
+.legend-items {
+  flex-wrap: wrap;
+  line-height: 1.25;
+  list-style: none;
+  padding-inline-start: 0px;
+}
+.legend-item-label {
+  margin-right: 6px;
+}
+.legend-item-mark {
+  margin: 0 2px;
+}
+.legend-item-clickable {
+  cursor: pointer;
+  display: grid;
+  place-items: center;
+  width: fit-content;
+  height: fit-content;
+  border: 1px dashed #DADADA;
+  border-radius: 2px;
+  padding: 2px;
+  margin: 4px 4px 4px 0;
+}
+.legend-item-clickable .inside {
+  width: 12px;
+  height: 10px;
+  transform: scale(0);
+}
+.legend-item-clickable .inside.checked {
+  transform: scale(1);
+}
+
+svg * {
+  transition: all 0.3s;
+}
+svg .transition-unset > * {
+  transition: unset;
+}
+svg text {
+  font-family: "Open Sans";
+  opacity: 0.75;
+}
+svg .axis path, svg .axis line {
+  opacity: 0;
+}
+svg .axis-line path, svg .axis-line line {
+  opacity: 1;
+  stroke: rgba(123, 211, 206, 0.2);
+  stroke-width: 1;
+}
+svg .axis-grid .tick > line {
+  opacity: 1;
+  stroke: #DADADA;
+  stroke-width: 0.5;
+}
+svg .axis .tick > text {
+  opacity: 0;
+}
+svg .axis-labels .tick > text {
+  opacity: 1;
+}
+svg .axis text {
+  font-size: 8px;
+}
+svg .axis .title > text {
+  font-size: 10px;
+  font-weight: 400;
+}
+svg .axis-left .tick > text {
+  transform: translateX(-12px);
+}
+svg .axis-bottom > .tick, svg .axis .title > text {
+  transform: translateY(12px);
+}
+svg .axis-left .title > text {
+  transform: translateX(-12px) rotate(-90deg);
+}
+svg .axis-right > .title > text {
+  transform: rotate(90deg);
+}
+svg .horizontal-line {
+  stroke: #656565;
+  stroke-width: 0.5;
+}
+svg .label text {
+  dominant-baseline: central;
+}
+svg .label-background {
+  fill: #DADADA;
+  rx: 2;
+}
+svg .label-background-dark {
+  rx: 2;
+  fill: #414141;
+}
+svg .label-text {
+  font-size: 10px;
+  font-weight: 400;
+}
+svg .label-text-dark {
+  font-size: 14px;
+  font-weight: 700;
+  fill: white;
+}
+svg .label-value {
+  font-size: 12px;
+  font-weight: 700;
+}
+svg .label-pointer {
+  stroke: #DADADA;
+  stroke-width: 0.5;
+}
+
+.plot-with-tooltip {
+  position: relative;
+}
+.plot-with-tooltip .shiny-plot-output {
+  cursor: pointer;
+}
+.plot-with-tooltip .plot-tooltip {
+  background-color: var(--bs-primary);
+  color: white;
+  z-index: 4;
+  position: absolute;
+  padding: 6px;
+  border-radius: 6px;
+  visibility: hidden;
+}
+.plot-with-tooltip .plot-tooltip .plot-tooltip-head {
+  display: flex;
+}
+.plot-with-tooltip .plot-tooltip .plot-tooltip-head a {
+  cursor: pointer;
+  margin-left: auto;
+  color: white;
+}
+.plot-with-tooltip .plot-tooltip .plot-tooltip-content ul {
+  padding-left: 0;
+}
+.plot-with-tooltip .plot-tooltip .plot-tooltip-content .tooltip-list-item {
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+  list-style: none;
+}
+.plot-with-tooltip .plot-tooltip .plot-tooltip-content .tooltip-list-item .tooltip-label {
+  font-weight: bold;
+}
+.plot-with-tooltip .plot-tooltip .plot-tooltip-content .tooltip-list-item .tooltip-label:after {
+  content: ":";
+}
+
+.radio-button-dropdowns {
+  align-items: center;
+  display: flex;
+}
+.radio-button-dropdowns label {
+  margin-right: 10px;
+}
+.radio-button-dropdowns .dropdown {
+  min-width: 300px;
+}
+
+.tiles-container {
+  height: 100%;
+  width: 100%;
+  display: grid;
+}
+
+.text-tile {
+  height: 100%;
+  width: 100%;
+  align-items: center;
+  border: 1px solid #DADADA;
+  display: flex;
+  justify-content: center;
+}
+.text-tile-value {
+  font-size: 12px;
+}
+.text-tile-label {
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.scatterplots-legends {
+  display: flex;
+}
+.scatterplots-legends .legend-stratification {
+  margin-left: 55px;
+  flex-grow: 1;
+}
+.scatterplots-legends .legend-gene-protein {
+  margin-right: 15px;
+}
+.scatterplots-legends .legend-gene-protein .legend-items {
+  flex-wrap: nowrap;
+}
+.scatterplots-legends .legend-gene-protein .legend-item-label {
+  margin-left: 20px;
+}
+
+.sidebar {
+  background-color: var(--bs-primary);
+  border-radius: 4px;
+  box-shadow: none;
+  padding: 25px;
+  height: fit-content;
+}
+.sidebar-title {
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  margin-left: 14px;
+}
+.sidebar .nav {
+  margin-top: 33px;
+}
+.sidebar .nav .nav-link {
+  color: white;
+}
+.sidebar .nav .nav-link.active {
+  background-color: #8FE7E2;
+  border-radius: 4px;
+  color: white;
+  font-weight: 700;
+}
+.sidebar .nav .nav-link:hover {
+  color: white;
+  background-color: #8FE7E2;
+}
+.sidebar .nav:not(.nav-hidden) > .bslib-nav-spacer {
+  margin-top: 60px !important;
+}
+
+.card-body .shiny-output-error-validation {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 300px;
+  text-transform: uppercase;
+  font-size: 16px;
+  letter-spacing: 1px;
+}
+
+.center, .shiny-html-output {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.waiter-overlay {
+  background-color: #32b0a9 !important;
+  color: white;
+}
+
+:fullscreen {
+  overflow: auto;
+  padding: 20px;
+}
+:fullscreen .row {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+:fullscreen .shiny-plot-output,
+:fullscreen .plot-with-tooltip,
+:fullscreen .shiny-spinner-output-container,
+:fullscreen .shiny-spinner-hideui,
+:fullscreen .fullscreen-container {
+  width: 100% !important;
+  height: 100% !important;
+  max-width: 100vw !important;
+  max-height: 100vh !important;
+}
+
+/*# sourceMappingURL=main.css.map */
